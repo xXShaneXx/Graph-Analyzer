@@ -7,7 +7,7 @@ This project is a Python application that uses a Polynomial Network to analyze a
 - Interactive GUI for data input and visualization
 - Polynomial Network for data analysis
 - Customizable parameters for the Polynomial Network
-- Real-time data and analysis visualization
+- Data and analysis visualization
 
 ## 📦 Requirements
 
