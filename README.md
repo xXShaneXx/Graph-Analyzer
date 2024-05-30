@@ -41,7 +41,7 @@ make run
 ```
 In the GUI, you can click and drag on the plot to add data points. You can then adjust the parameters of the Polynomial Network and click "Analyze" to fit a polynomial to the data. The fitted polynomial and its equation will be displayed on the plot and in the GUI, respectively.
 
-##🧹 Cleaning Up
+## 🧹 Cleaning Up
 
 To clean up the project (e.g., remove Python cache files), run the following command:
 ```bash
